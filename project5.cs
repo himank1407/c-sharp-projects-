@@ -1,0 +1,1 @@
+Console.WriteLine("i am making 1 eay project for day 5");
